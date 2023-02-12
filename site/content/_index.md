@@ -1,6 +1,6 @@
 ---
 title: Große Maler mit ihren besten Werken
-subtitle: Virtuelle Ausstellungen immer und Überal
+subtitle: Virtuelle Ausstellungen immer und Überall
 image: img/fb_k1600_gemaelde1.png
 blurb:
   heading: Why Kaldi?
