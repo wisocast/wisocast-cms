@@ -3,7 +3,7 @@ title: Große Maler mit ihren besten Werken
 subtitle: Virtuelle Ausstellungen immer und Überall
 image: img/fb_k1600_gemaelde1.png
 blurb:
-  heading: Why Kaldi?
+  heading: Warum wisocast-exhibition
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
